@@ -83,8 +83,8 @@ DATABASES = {
         "NAME": "curd_operation",
         "USER":"root",
         "PASSWORD":"123",
-        # 'HOST': 'db',
-        # 'PORT': '3306'
+        'HOST': 'db',
+        'PORT': '3306'
 
 
     }
